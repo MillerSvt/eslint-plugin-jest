@@ -352,6 +352,7 @@ set to warn in.\
 | [prefer-importing-jest-globals](docs/rules/prefer-importing-jest-globals.md) | Prefer importing Jest globals                                             |     |     | 🔧  |     |
 | [prefer-lowercase-title](docs/rules/prefer-lowercase-title.md)               | Enforce lowercase test names                                              |     |     | 🔧  |     |
 | [prefer-mock-promise-shorthand](docs/rules/prefer-mock-promise-shorthand.md) | Prefer mock resolved/rejected shorthands for promises                     |     |     | 🔧  |     |
+| [prefer-mocked](docs/rules/prefer-mocked.md)                                 | Prefer jest.mocked() over (fn as jest.Mock)                               |     |     | 🔧  |     |
 | [prefer-snapshot-hint](docs/rules/prefer-snapshot-hint.md)                   | Prefer including a hint with external snapshots                           |     |     |     |     |
 | [prefer-spy-on](docs/rules/prefer-spy-on.md)                                 | Suggest using `jest.spyOn()`                                              |     |     | 🔧  |     |
 | [prefer-strict-equal](docs/rules/prefer-strict-equal.md)                     | Suggest using `toStrictEqual()`                                           |     |     |     | 💡  |
